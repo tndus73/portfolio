@@ -1,2 +1,2 @@
 # portfolio
-포토폴리오 pdf 자료
+포트폴리오 pdf 자료
